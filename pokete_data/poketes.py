@@ -1406,6 +1406,28 @@ that will confuse the shit out of you.",
      +     """,
             "esc": ["lightblue"]}]
     },
+    "johnny": {
+        "name": "Johnny",
+        "hp": 150,
+        "atc": 5,
+        "defense": 3,
+        "attacks": ["front_kick", "punch", "take_down", "knife_atack"],
+        "pool": [],
+        "miss_chance": 0,
+        "desc": "Johnny from streets of London",
+        "lose_xp": 4,
+        "rarity": 0.5,
+        "types": ["electro", "normal"],
+        "evolve_poke": "",
+        "evolve_lvl": 0,
+        "initiative": 5,
+        "ico": [{
+            "txt": r"""  /\~-~/\
+ //\0_0/\\
+//  '''  \\
+W         W""",
+            "esc": None}]
+    },
     "pavous": {
         "name": "Pavous",
         "hp": 20,
